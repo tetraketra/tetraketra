@@ -1,6 +1,6 @@
 Hello! 🍓
 
-This is my personal GitHub page for useful pacakages/functions and whatever I've meen messing with lately.
+This is my personal GitHub page for useful pacakages/functions and whatever I've been messing with lately.
 While I'll be documenting most of what I publish, I don't recommend using it yourself. 
 
 

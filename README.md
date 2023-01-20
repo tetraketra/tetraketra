@@ -4,7 +4,7 @@ My name is **Tetra Silverberg**, and I'm currently a student of [W&M's Raymond A
 
 This is a multipurpose personal GitHub page that I intend to use for a wide variety of purposes, such as:
 * 🧰 my [personal toolbox](https://github.com/tetraketra/TetrasToolbox) of useful R functions
-* 💼 MSBA program files (mostly private for intellectual property reasons)
+* 💼 my version of [R's c() vector syntax in Python](https://github.com/tetraketra/PythonsRCool) by heavily abusing special methods
 * 🎨 my [generalized complex-plane escape-based fractal generator](https://github.com/tetraketra/FractalGenerator) that I coded from the ground up in Python
 * 🤔 *more to come...*
 

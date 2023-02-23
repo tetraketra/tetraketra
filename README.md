@@ -1,8 +1,8 @@
 Hello! 🍓
 
-My name is **Tetra Silverberg**, and I'm currently a student of [W&M's Raymond A Mason School of Business's MSBA Program](https://mason.wm.edu/graduate/msba/residential/index.php) and an employee of [Port Technology Services](https://www.porttechnologyservices.com/). Outside of work and school, I play mostly ARPGs and factory management games.
+My name is **Tetra Silverberg**. I'm currently a student of [W&M's Raymond A Mason School of Business's MSBA Program](https://mason.wm.edu/graduate/msba/residential/index.php) and an employee of [Port Technology Services](https://www.porttechnologyservices.com/). Outside of work and school, I play mostly ARPG and factory management games.
 
-This is a multipurpose personal GitHub page that I intend to use for a wide variety of projects, such as:
+This is a multipurpose personal GitHub page that I use for a wide variety of projects, such as:
 * 🧰 my [personal toolbox](https://github.com/tetraketra/TetrasToolbox) of useful R functions
 * 💼 my version of [R's c() vector syntax in Python](https://github.com/tetraketra/PythonsRCool), making heavy use of special methods
 * 🎨 my [generalized complex-plane escape-based fractal generator](https://github.com/tetraketra/FractalGenerator)

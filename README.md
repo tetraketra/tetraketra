@@ -1,6 +1,6 @@
 Hello! 🍓
 
-My name is **Tetra Silverberg**. I'm currently a student of [W&M's Raymond A Mason School of Business's MSBA Program](https://mason.wm.edu/graduate/msba/residential/index.php) and an employee of [Port Technology Services](https://www.porttechnologyservices.com/). Outside of work and school, I play mostly ARPG and factory management games.
+My name is **Tetra Silverberg**. I'm an employee of [Port Technology Services](https://www.porttechnologyservices.com/). Outside of work and school and avid player of ARPG and factory management games.
 
 This is a multipurpose personal GitHub page that I use for a wide variety of projects, such as:
 * 🧰 my [personal toolbox](https://github.com/tetraketra/TetrasToolbox) of useful R functions

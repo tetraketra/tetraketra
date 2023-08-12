@@ -3,7 +3,7 @@ Hello! 🍓
 My name is **Tetra Silverberg**. I'm an employee of [Port Technology Services](https://www.porttechnologyservices.com/). Outside of work and school and avid player of ARPG and factory management games.
 
 This is a multipurpose personal GitHub page that I use for a wide variety of projects, such as:
-* 🧰 my [personal toolbox](https://github.com/tetraketra/tetras-toolbox) of useful Python functions (now available on [PyPi](https://pypi.org/project/tetras-toolbox)!
+* 🧰 my [personal toolbox](https://github.com/tetraketra/tetras-toolbox) of useful Python functions (now available [here]((https://pypi.org/project/tetras-toolbox)) on PyPi)!
 * 🎨 my [code golf](https://github.com/tetraketra/code-golf) adventures
 * 🤔 *more in progress below...*
 

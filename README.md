@@ -4,9 +4,8 @@ My name is **Tetra Silverberg**. I'm an employee of [Port Technology Services](h
 
 This is a multipurpose personal GitHub page that I use for a wide variety of projects, such as:
 * 🧰 my [personal toolbox](https://github.com/tetraketra/tetras-toolbox) of useful Python functions
-* 💼 my version of [R's c() vector syntax in Python](https://github.com/tetraketra/PythonsRCool), making heavy use of special methods
 * 🎨 my [code golf ridiculousness](https://github.com/tetraketra/code-golf)
-* 🤔 *more to come...*
+* 🤔 *more in progress below...*
 
 **While I'll be documenting most of what I publish, I don't recommend using it yourself!**
 

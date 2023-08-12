@@ -1,6 +1,6 @@
 Hello! 🍓
 
-My name is **Tetra Silverberg**. I'm an employee of [Port Technology Services](https://www.porttechnologyservices.com/). Outside of work and school and avid player of ARPG and factory management games.
+My name is **Tetra Silverberg**. I'm currently emmployed as a data engineer at [Port Technology Services](https://www.porttechnologyservices.com/), my pronouns are she/it (*yes you can make the joke*), I code mostly in Python and C, I read an unhealthy amount of manhwa, and my top three videogames are Spelunky 2, Factorio, and Path of Exile.
 
 This is a multipurpose personal GitHub page that I use for a wide variety of projects, such as:
 * 🧰 my [personal toolbox](https://github.com/tetraketra/tetras-toolbox) of useful Python functions (now available [here]((https://pypi.org/project/tetras-toolbox)) on PyPi)!

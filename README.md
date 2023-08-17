@@ -1,4 +1,4 @@
-Hello, my name is **Tetra**! Thanks to the Trans Experience™, you may know me as Ben instead ^^ 🍓
+Hello, my name is **Tetra**! If you've found me through my resume, you may also know me as Ben. 🍓
 
 I'm currently employed as a data engineer at [Port Technology Services](https://www.porttechnologyservices.com/), my pronouns are she/it, I code mostly in Python and C, I read an unhealthy amount of manhwa, and my top three videogames are Spelunky 2, Factorio, and Path of Exile.
 

@@ -16,7 +16,7 @@
 ./work_experience
  ├─ 2023-Pres ─ Data Engineer at Port Technology Services
  ├─ 2022-2023 ─ Data Analyst at the same (^)
- ├─ 2021-2022 ─ Data Tzar at the Alan B. Miller Entrepreneurship Center
+ ├─ 2021-2022 ─ Power BI Dev & Data Tzar at Miller Entrepreneurship Center
  └─ 2021-2021 ─ Power BI Dev at Mondial Software (Summer)
 
 ./core_competencies

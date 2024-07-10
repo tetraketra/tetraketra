@@ -1,10 +1,38 @@
-Hello, my name is **Tetra**! If you've found me through my resume, you may also know me by my legal name beginning with B. 🍓
+# 🦊 About Me 🦊
+```html
+./who
+ ├─ Tetra, or dead(ish)name starting w/ B.
+ ├─ she/it trans C+Python programmer
+ ├─ 💚 foxes, factory games, and manhwa
+ └─ burgeoning audiophile
 
-I'm currently employed as a data engineer at [Port Technology Services](https://www.porttechnologyservices.com/), my pronouns are she/it, I code mostly in Python and C, read an unhealthy amount of manhwa, and enjoy factory management games.
+./where
+ └─ Richmond, VA, USA
 
-This is a multipurpose personal GitHub page that I use for a wide variety of personal projects.
+./why
+ └─ why not
+```
+```html
+./work_experience
+ ├─ 2023-Pres ─ Data Engineer at Port Techology Services
+ ├─ 2022-2023 ─ Data Analyst at Port Technology Services
+ ├─ 2021-2022 ─ Data Tzar at the Alan B. Miller Entrepreneurship Center
+ └─ 2021-2021 ─ Power BI Dev at Mondial Software (Summer)
 
-<!---
-tetraketra/tetraketra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+./core_competencies
+ ├─ Languages ─ Python, R, C, Power Query, SQL (Server, Postgres, My)
+ ├─ Data Pres ─ Power BI, Tableau, Excel
+ └─ Azure Ste ─ Function Apps, Logic Apps, Document Intelligence
+
+./other_skills
+ ├─ Msc Tools ─ Spark, MapReduce
+ ├─ Abilities ─ AI, ML, Big Data, Data Vis, Stochastic Modeling,
+ └─ Fun Stuff ─ Cooking, Talking Fast, One (1) Silly Voice
+
+./education
+ ├─ Master's of Science in Business Analytics at William & Mary
+ └─ Bachelor of Business Administration in Business Analytics w/ Data Science at William & Mary
+
+```
+
+# 🦊 My Projects 🦊

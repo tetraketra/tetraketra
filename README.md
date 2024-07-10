@@ -21,7 +21,7 @@
 
 ./core_competencies
  ├─ Languages ─ Python, R, C, Power Query, SQL (Server, Postgres, My)
- ├─ Data Pres ─ Power BI, Tableau, Excel
+ ├─ Data Visl ─ Power BI, Tableau, Excel
  └─ Azure Ste ─ Function Apps, Logic Apps, Document Intelligence
 
 ./other_skills

@@ -35,7 +35,7 @@
 
 ```
 
-# 🦊 My Projects 🦊
+# 🛠️ My Projects 🛠️
 ```html
 ./untitled-fox-game
  └─ My personal hobby engine and game for practicing clean code, C, and OpenGL. 

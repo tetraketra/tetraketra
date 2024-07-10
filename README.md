@@ -26,8 +26,8 @@
 
 ./other_skills
  ├─ Msc Tools ─ Spark, MapReduce
- ├─ Abilities ─ AI, ML, Big Data, Data Vis, Stochastic Modeling,
- └─ Fun Stuff ─ Cooking, Talking Fast, One (1) Silly Voice
+ ├─ Abilities ─ AI, ML, Big Data, Data Vis, Stochastic Modeling
+ └─ Fun Stuff ─ Eating Spicy Food, One (1) Silly Voice
 
 ./education
  ├─ Master's of Science in Business Analytics at William & Mary

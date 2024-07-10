@@ -41,7 +41,6 @@
  └─ My personal hobby engine and game for practicing clean code, C, and OpenGL. 
 ./code-golf 
  └─ Small files for code golf problems in various languages (but probably Python).
-./tetras-toolkit
 TODO: make `ttk` and `tgl` int submodules and post them here?
 TODO: `tec`, "Tetra's Entity Compontent System"?
 TODO: clean up and update dial-up to make it professional and worth posting here?

@@ -31,7 +31,7 @@
 
 ./education
  ├─ Master's of Science in Business Analytics at William & Mary
- └─ Bachelor of Business Administration in Business Analytics w/ Data Science at William & Mary
+ └─ Bachelor's of Business Administration in Business Analytics w/ Data Science at William & Mary
 
 ```
 

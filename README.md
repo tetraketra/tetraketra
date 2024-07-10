@@ -41,7 +41,8 @@
  └─ My personal hobby engine and game for practicing clean code, C, and OpenGL. 
 ./code-golf 
  └─ Small files for code golf problems in various languages (but probably Python).
+./dial-up
+ └─ Command-line encoder and decoder for an unnamed nondeterministic phone-dialpad-based code.
 TODO: make `ttk` and `tgl` into submodules and post them here?
 TODO: `tec`, "Tetra's Entity Compontent System"?
-TODO: clean up and update dial-up to make it professional and worth posting here?
 ```

@@ -12,28 +12,6 @@
 ./why
  └─ why not
 ```
-```html
-./work_experience
- ├─ 2023-Pres ─ Data Engineer at Port Technology Services
- ├─ 2022-2023 ─ Data Analyst at the same (^)
- ├─ 2021-2022 ─ Power BI Dev & Data Tzar at Miller Entrepreneurship Center
- └─ 2021-2021 ─ Power BI Dev at Mondial Software (Summer)
-
-./core_competencies
- ├─ Languages ─ Python, R, C, Power Query, SQL (Server, Postgres, My)
- ├─ Data Visl ─ Power BI, Tableau, Excel
- └─ Azure Ste ─ Function Apps, Logic Apps, Document Intelligence
-
-./other_skills
- ├─ Msc Tools ─ Spark, MapReduce
- ├─ Abilities ─ AI, ML, Big Data, Data Vis, Stochastic Modeling
- └─ Fun Stuff ─ Eating Spicy Food, One (1) Silly Voice
-
-./education
- ├─ Master's of Science in Business Analytics at William & Mary
- └─ Bachelor's of Business Administration in Business Analytics w/ Data Science at William & Mary
-
-```
 
 # 🛠️ My Projects 🛠️
 ```html
